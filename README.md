@@ -1,2 +1,5 @@
 - 👋 Hi, I’m Mohammad Khodadadi as @thisismkh
 - 👀 I’m interested in Django, Python, Rust and also every cool things.
+- 💰 Any donations are appreciated:
+  - Bitcoin: 1NtPGYBQkNhoqRwYKD73Sf5VshFvbnNXf6
+  - Ethereum: 0xA61262b100425ce05BBF6Bedc493De9807D541E5
